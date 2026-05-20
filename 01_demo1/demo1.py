@@ -2,7 +2,7 @@
 import requests
 import json
 
-# API endpoint ของกรมอุตุนิยมวิทยาญี่ปุ่น (พยากรณ์อากาศโตเกียว)
+# API endpoint ของกรมอุตุนิยมวิทยาญี่ปุ่น (พยากรณ์อากาศโตเกียว) #
 url = "https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json"
 
 try:
