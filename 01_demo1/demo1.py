@@ -29,3 +29,12 @@ except json.JSONDecodeError:
     print("การแยกวิเคราะห์ข้อมูลสภาพอากาศล้มเหลว")
 except Exception as e:
     print(f"เกิดข้อผิดพลาดที่ไม่คาดคิด: {e}")
+
+
+
+
+
+
+
+
+# Hello, World!
